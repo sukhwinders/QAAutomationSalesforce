@@ -46,7 +46,7 @@ public class SF_SearchAndConnectPartner {
 	String strTxtCompName		="input[id=\"companyName\"]";
 	//String strBtnSearch			=".//*[@class='btn btn-info action']";
 	String strBtnSearch			=".//*[@class='slds-button slds-button--brand']";	
-	String strBtnConnect		="button[class=\"slds-button slds-button--brand slds-button--large ng-scope\"]";
+	String strBtnConnect		="button[class=\"btn btn-connect ng-scope\"]";
 	
 	//String strBtnSave			=".//*[@class='slds-button slds-button--brand ng-scope']";
 	String strBtnSave			=".//*[@id='btn_UPRelationship_Save']";	
